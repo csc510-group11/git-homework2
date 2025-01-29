@@ -10,11 +10,10 @@
 
 This is a repository for CSC 510 homework 2. The repository contains a simple HTML file.
 
-## Image
+## Image (nafreen)
 ![Screenshot 1](images/ss1.png)
 ![Screenshot 1](images/ss2.png)
 
-## Code Example
 
 ## Tasks
 
