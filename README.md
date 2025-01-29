@@ -9,3 +9,9 @@
 ## Description
 
 This is a repository for CSC 510 homework 2. The repository contains a simple HTML file.
+
+### Screenshot 1
+![Img](./screenshot_1.png)
+
+### Screenshot 2
+![Img](./screenshot_2.png)
