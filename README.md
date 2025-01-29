@@ -10,6 +10,21 @@
 
 This is a repository for CSC 510 homework 2. The repository contains a simple HTML file.
 
+## Git Tutorial Exercise (mrahma22)
+
+![Project Screenshot 1](./images/mrahma22-1.png)
+![Project Screenshot 2](./images/mrahma22-2.png)
+
+## Task List (mrahma22)
+
+- [x] Task 1: Complete Git Tutorial
+- [x] Task 2: Add Screenshots to `README.md`  
+- [x] Task 3: Modify `.html` File  
+- [x] Task 4: Modify footer in `.html` file  
+- [x] Task 5: Review pull requests
+
+## Git Tutorial Exercise (sdatta4)
+
 ### Screenshot 1
 ![Img](./screenshot_1.png)
 
