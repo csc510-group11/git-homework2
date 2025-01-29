@@ -21,4 +21,4 @@ This is a repository for CSC 510 homework 2. The repository contains a simple HT
 - [x] Task 2: Add Screenshots to `README.md`  
 - [x] Task 3: Modify `.html` File  
 - [x] Task 4: Modify footer in `.html` file  
-- [ ] Task 5: Review pull requests
+- [x] Task 5: Review pull requests
